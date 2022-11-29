@@ -1,9 +1,9 @@
 👋 Hi, I’m Uzoma Ariguzo
 
-- 🐢 I'm a graduate of the University of Maryland.  Go Terps!!
-- 🌱 I love to learn!  Currently, learning Typescript.
-- 🍎 Building cool features for EAB's Navigate Application
-- 🦻 Love to work on Accessibility problems.
+- 🐢 Graduate of the University of Maryland.  Go Terps!!
+- 🌱 Passion for learning.
+- 🍎 Building cool features for EAB's Navigate Application.
+- ♿ Accessibility === 💙.
 - 😃 Pronouns: He/Him
 - 📫 How to reach me: www.codeguzo.com
 
