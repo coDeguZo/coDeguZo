@@ -7,6 +7,12 @@
 - 😃 Pronouns: He/Him
 - 📫 How to reach me: www.codeguzo.com
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/uzoma-ariguzo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uzoma-ariguzo" height="40" width="40" /></a>
+</p>
+<br/>
+
 ![Uzoma Medium Gif](https://user-images.githubusercontent.com/33858127/88416966-1e53ca00-cdaf-11ea-82f8-f8b90949ac73.gif)
 
 <!---
