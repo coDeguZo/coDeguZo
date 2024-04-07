@@ -5,7 +5,7 @@
 - 🍎 Building cool features for EAB's Navigate Application.
 - ♿ Accessibility === 💙.
 - 😃 Pronouns: He/Him
-- 📫 How to reach me: www.codeguzo.com
+<!--- 📫 How to reach me: www.codeguzo.com --->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,7 +13,7 @@
 </p>
 <br/>
 
-![Uzoma Medium Gif](https://user-images.githubusercontent.com/33858127/88416966-1e53ca00-cdaf-11ea-82f8-f8b90949ac73.gif)
+<!--- ![Uzoma Medium Gif](https://user-images.githubusercontent.com/33858127/88416966-1e53ca00-cdaf-11ea-82f8-f8b90949ac73.gif) --->
 
 <!---
 coDeguZo/coDeguZo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
